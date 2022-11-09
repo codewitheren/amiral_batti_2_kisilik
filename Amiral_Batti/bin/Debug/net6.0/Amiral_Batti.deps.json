@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Amiral_Batti/1.0.0": {
+        "runtime": {
+          "Amiral_Batti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amiral_Batti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

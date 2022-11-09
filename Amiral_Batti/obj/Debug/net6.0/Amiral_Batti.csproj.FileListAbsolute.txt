@@ -1,0 +1,15 @@
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\bin\Debug\net6.0\Amiral_Batti.exe
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\bin\Debug\net6.0\Amiral_Batti.deps.json
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\bin\Debug\net6.0\Amiral_Batti.runtimeconfig.json
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\bin\Debug\net6.0\Amiral_Batti.dll
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\bin\Debug\net6.0\Amiral_Batti.pdb
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.csproj.AssemblyReference.cache
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.AssemblyInfoInputs.cache
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.AssemblyInfo.cs
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.csproj.CoreCompileInputs.cache
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.dll
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\refint\Amiral_Batti.dll
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.pdb
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\Amiral_Batti.genruntimeconfig.cache
+C:\Users\erene\Desktop\Eren Erdoğan\Visual Studio Code Projeleri\Amiral_Batti\Amiral_Batti\obj\Debug\net6.0\ref\Amiral_Batti.dll
